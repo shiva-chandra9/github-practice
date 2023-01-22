@@ -1,0 +1,17 @@
+{
+	"name": "onedaylater",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait1day later",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
